@@ -5,7 +5,7 @@
 REQUIRED_NUMBER_OF_ARGUMENTS=2
 if [ $# -lt $REQUIRED_NUMBER_OF_ARGUMENTS ]
 then
-echo "Usage: $0 <path_to_config_file> <type_of_start> "
+echo "Usage: $0 <type_of_start> <path_to_config_file>"
 echo "Type of start: namenode or datanode "
 exit 1
 fi
@@ -21,11 +21,14 @@ source $CONFIG_FILE
 if [ "$1" == "namenode" ]
 then
 COMMAND="sudo $HADOOP_HOME/sbin/start-dfs.sh"
+
 for node in ${NAME_NODE//,/ }
 do
 echo "Start name node in $node in $COMMAND"
 ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "
 $COMMAND"
+#TO-DO add format
+#ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "$HADOOP_HOME/bin/hdfs namenode -format -clusterid nn -force"
 break
 done
 
@@ -37,7 +40,7 @@ do
 echo "Start name node in $node in sudo $COMMAND"
 ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "
 $COMMAND"
-SLEEP 5
+SLEEP 30
 done
 else
 echo "Unrecongized start type: namenode or datanode"

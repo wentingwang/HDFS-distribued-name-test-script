@@ -6,7 +6,7 @@ REQUIRED_NUMBER_OF_ARGUMENTS=2
 if [ $# -lt $REQUIRED_NUMBER_OF_ARGUMENTS ]
 then
 echo "Usage: $0 <type_of_start> <path_to_config_file>"
-echo "Type of start: -h for only hdfs-2.6.0.jar, -c for config files + all jars, -s for scratch(hadoop file+config files+alljars) "
+echo "Type of start: -j for all jars, -c for config files + all jars, -s for scratch(hadoop file+config files+alljars) "
 exit 1
 fi
 
@@ -74,7 +74,7 @@ then
 	done
 fi
 
-if [ "$1" == "-s"  -o "$1" == "-h" ]
+if [ "$1" == "-s"  -o "$1" == "-j" ]
 then
        echo "Copy hdfs jar to hadoop home"
 	for node in ${NAME_NODE//,/ }
@@ -92,7 +92,6 @@ then
 	    #TO-DO check if HADOOP_HOME exists
 	    scp $JAR_DIR/*.jar $node:$HADOOP_HOME/share/hadoop/hdfs
 	    
-	break
 	done
 	
 else

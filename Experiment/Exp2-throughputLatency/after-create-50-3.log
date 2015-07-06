@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/static/hadoop.css">
+</head>    
+<body>
+Starting moving process, moving namespace /nnThroughputBenchmark to server cdc-hpcblx033-14.bfd.walmart.com
+<br/>
+ Found path /nnThroughputBenchmark
+<br/>
+Send INode spend 4687 milliseconds!1
+<br/>
+Success!, spend 4698 milliseconds!
+<br/>
+spend 4699 milliseconds!
+<br/>
+<br />
+</body>
+</html>

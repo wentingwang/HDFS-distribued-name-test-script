@@ -40,7 +40,7 @@ do
 echo "Start name node in $node in sudo $COMMAND"
 ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "
 $COMMAND"
-SLEEP 30
+SLEEP 20
 done
 else
 echo "Unrecongized start type: namenode or datanode"

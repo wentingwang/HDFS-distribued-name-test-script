@@ -22,19 +22,19 @@ fi
 
 for file in $FOLDER/*.txt
 do
-	while read line           
-	do   
-	if [[ $line == d* ]]
+	awk '{print $1,$10}' $file | while read permission path;       
+	do
+	#echo "$path"  
+	if [[ $permission == d* ]]
 	then
-	   DIRECTORY=$(echo $line|awk '{print $10}')
 	   if [ $TYPE_OF_OUTPUT -eq 1 ]
 	   then
-		   echo "$DIRECTORY"
+		   echo "$path"
 	   else
 	   #output to a file
-              echo "$DIRECTORY" >> $OUTPUT_FILE
+              echo "$path" >> $OUTPUT_FILE
           fi
 	   
        fi           
-	done <$file 
+	done
 done

@@ -1,15 +1,16 @@
-CONF_FILE=../conf/setup-test.conf
+CONF_FILE=../../conf/setup-test.conf
 OPERATION="mkdir"
 THREAD_NUM="10 20 50"
-ITEM_NUM=10000
+ITEM_NUM=100
 ITEM_PER_DIR=100
-REPEAT_NUM=1
+REPEAT_NUM=3
+SCRIPT_PATH=../..
 
 echo "$CONF_FILE"
 
-../command.sh "$CONF_FILE" "sudo rm -rf /data1/dfs/name"
-../command.sh "$CONF_FILE" "sudo /home/wwang27/test/hadoop-2.6.0/bin/hdfs namenode -format -clusterid nn -force"
-../start.sh namenode "$CONF_FILE"
+$SCRIPT_PATH/command.sh "$CONF_FILE" "sudo rm -rf /data1/dfs/name"
+$SCRIPT_PATH/command.sh "$CONF_FILE" "sudo /home/wwang27/test/hadoop-2.6.0/bin/hdfs namenode -format -clusterid nn -force"
+$SCRIPT_PATH/start.sh namenode "$CONF_FILE"
 sleep 10
 	    
 for exp in $THREAD_NUM
@@ -23,4 +24,4 @@ do
 	    #echo "sudo /home/wwang27/test/hadoop-2.6.0/bin/hadoop org.apache.hadoop.hdfs.server.namenode.NNThroughputBenchmarkWenting hdfs://cdc-hpcblx033-13.bfd.walmart.com:9000/ -op clean"    
     done
 done
-../stop.sh namenode "$CONF_FILE"
+$SCRIPT_PATH/stop.sh namenode "$CONF_FILE"

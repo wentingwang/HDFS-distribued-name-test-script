@@ -1,0 +1,2021 @@
+Warning: Permanently added 'cdc-hpcblx033-13.bfd.walmart.com,10.224.168.14' (RSA) to the list of known hosts.
+15/07/02 15:18:24 INFO namenode.NNThroughputBenchmarkWenting: Starting Name Node
+15/07/02 15:18:24 INFO namenode.NNThroughputBenchmarkWenting: [hdfs://cdc-hpcblx033-13.bfd.walmart.com:9000/, -op, create, -threads, 50, -files, 1000, -filesPerDir, 100, -keepResults, -printLatency]
+15/07/02 15:18:24 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+  FileSystem org.apache.hadoop.hdfs.DistributedFileSystem: 0 bytes read, 0 bytes written, 0 read ops, 0 large read ops, 0 write ops
+15/07/02 15:18:25 INFO namenode.NNThroughputBenchmarkWenting: Using DistributedFileSystem here
+15/07/02 15:18:25 INFO namenode.NNThroughputBenchmarkWenting: Starting benchmark: create
+15/07/02 15:18:25 INFO namenode.NNThroughputBenchmarkWenting: Generate 1000 intputs for create
+15/07/02 15:18:25 FATAL namenode.NNThroughputBenchmarkWenting: Log level = ERROR
+15/07/02 15:18:25 INFO namenode.NNThroughputBenchmarkWenting: Starting 1000 create(s). with recording latency
+[buildOrAddBST] Take 3
+[buildOrAddBST] Take 3
+[buildOrAddBST] Take 3
+[buildOrAddBST] Take 3
+[buildOrAddBST] Take 3
+[buildOrAddBST] Take 2
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 0
+[buildOrAddBST] Take 1
+[buildOrAddBST] Take 0
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508921,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506915,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507373,458
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509341,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508242,420
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508272,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509328,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508914,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508491,188
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507822,449
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508280,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509335,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508288,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508258,16
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508908,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508296,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506438,1041
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508303,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509348,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508901,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507854,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507372,461
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509547,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509540,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509097,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507842,423
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508281,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509534,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507871,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507419,47
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509105,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509527,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507863,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506434,1037
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508689,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509559,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509119,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509112,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509553,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506911,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509975,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508246,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509936,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507811,446
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509969,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509513,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507365,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509948,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508677,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507827,16
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508697,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508664,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509105,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509954,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506432,1034
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506906,474
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509527,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508688,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509962,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509520,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506915,479
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511581,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508655,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507373,458
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510768,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509915,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509496,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510346,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509507,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507821,448
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511596,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510761,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510353,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508666,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508239,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511590,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511174,406
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506436,1037
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509082,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509933,18
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507407,45
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507885,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507948,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507917,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507845,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507362,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507941,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507909,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507875,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507901,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507866,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506900,470
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507933,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507347,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507832,425
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507893,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,1031
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507956,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507856,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507925,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506913,476
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507475,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507572,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507537,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507373,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507510,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507581,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507519,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507484,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507546,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507455,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507554,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507418,45
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507493,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507444,26
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507465,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507528,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507563,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506437,1038
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507501,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507944,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507370,20
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507886,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507912,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507951,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507876,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507904,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507928,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507455,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507935,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507419,49
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507966,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506901,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507444,25
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507465,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507920,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,1030
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507895,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507350,449
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507959,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509519,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508184,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509494,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508223,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509512,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507335,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508215,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509505,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506893,464
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508634,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507763,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508205,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508666,32
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508195,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,1027
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507324,431
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507772,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509525,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507348,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509081,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509939,21
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508654,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507811,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509909,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507780,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509498,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508647,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507790,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509067,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509949,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509918,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508638,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509076,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506901,468
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508226,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506433,1032
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509085,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507800,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507351,450
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507768,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506915,478
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507852,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509665,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507375,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507879,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507905,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508314,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509679,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509672,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507841,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508827,513
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507870,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507824,449
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507897,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509648,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509238,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507861,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507888,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509658,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506437,1035
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508716,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508222,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508686,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508243,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508674,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507360,457
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507790,430
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508709,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508213,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508737,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508202,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508730,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508702,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506903,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506432,1029
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508744,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508660,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508723,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508695,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508232,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509938,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507810,445
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509515,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508252,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509499,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510771,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509508,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510349,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507365,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511178,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508670,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510764,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509528,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508226,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506906,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508237,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506435,1032
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509085,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509522,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510757,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506491,62
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507007,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507034,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507071,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507090,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507025,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506997,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506518,27
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506961,423
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507062,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507099,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507016,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506988,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506538,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507053,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,1026
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506978,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507080,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507044,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506528,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507809,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509904,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875512777,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508246,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508222,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875512368,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509492,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510736,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507362,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510313,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510327,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511143,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506903,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508664,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510320,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506432,1028
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511960,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511551,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509080,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508234,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509160,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506912,475
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507371,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508276,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508717,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509167,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509153,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507818,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508284,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508708,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508250,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509146,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508731,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508700,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509138,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508724,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506437,1033
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507836,18
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508266,16
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508693,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509308,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507370,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508277,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509275,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509268,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509301,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508827,550
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509261,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509294,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509246,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507867,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507416,46
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509288,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507444,28
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506435,1030
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509238,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509254,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506911,476
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509281,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507857,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509491,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507811,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508241,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509911,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507781,426
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510345,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510352,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508229,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507355,453
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507792,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506902,472
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509075,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510360,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509931,20
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508660,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,1024
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507801,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510366,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509484,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509903,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509161,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507811,445
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509134,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509569,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509155,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508673,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507365,458
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507843,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509127,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509098,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509147,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507826,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509106,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508256,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506432,1026
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506907,475
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509087,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509119,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509113,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509141,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510369,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506915,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509936,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510375,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509089,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507374,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508675,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509100,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507844,424
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509121,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510382,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510348,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507420,46
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510356,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508258,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509528,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509107,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510363,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506438,1031
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509114,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509491,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510337,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508246,422
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507375,457
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509911,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510343,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510372,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506918,478
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510378,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510351,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506440,1032
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509078,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507824,449
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510384,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508664,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510358,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510389,5
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510330,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510365,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509903,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508218,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509884,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507776,422
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508186,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508655,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875512336,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508209,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509066,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507354,452
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510701,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510293,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511109,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506902,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509476,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508226,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511927,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506431,1023
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508238,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508198,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511518,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510745,406
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510339,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507370,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509909,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507816,446
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510318,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509497,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510773,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508249,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510760,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510325,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511180,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510766,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508667,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510753,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510332,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506435,1026
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506911,476
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509083,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508235,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509160,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507370,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509132,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509167,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509153,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508254,16
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507819,449
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509126,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508679,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509098,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509146,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509105,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509139,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506434,1023
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508269,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508689,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508238,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509119,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509112,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506911,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509728,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508891,600
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508274,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509306,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509734,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506918,479
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508243,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509741,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508283,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509299,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507824,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509714,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509747,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508291,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508260,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509760,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507377,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509754,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509720,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506439,1029
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508216,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509059,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509514,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507331,436
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509496,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507785,427
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509067,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506895,466
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509506,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509076,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508636,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507358,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508207,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508225,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509044,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,1019
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507344,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509051,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509487,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508197,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510369,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509907,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507337,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507750,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509495,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507780,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509917,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509949,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506893,464
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509956,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507761,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508665,59
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,1017
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507326,433
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508192,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509082,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509935,18
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509962,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508606,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507770,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506610,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506558,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506527,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506640,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506580,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506516,29
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506548,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506487,65
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506691,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506650,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506590,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506620,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506681,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506629,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506661,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506422,1010
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506537,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506671,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506569,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506600,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507808,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507851,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509088,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507880,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509912,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508491,202
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509502,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507821,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507789,430
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507870,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508289,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508500,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509077,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506902,468
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507799,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507359,457
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508663,163
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506434,1022
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507860,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507839,18
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510336,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508653,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507371,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509061,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509906,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509494,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510343,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509070,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507818,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510315,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510350,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510322,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510765,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509479,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508238,420
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506436,1023
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509486,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506911,475
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510758,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510329,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507369,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507472,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507439,26
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508853,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507882,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508859,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507909,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508318,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508827,509
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508872,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507452,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507900,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508837,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507462,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508865,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508845,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507413,44
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506436,1023
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506909,473
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507891,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509905,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508222,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509494,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509057,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507781,426
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509944,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509914,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508214,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508640,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509064,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507355,453
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506902,472
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508633,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509073,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508204,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509931,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509049,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,1015
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508192,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509081,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509310,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507369,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509277,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509304,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508849,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507846,425
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509271,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509264,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509296,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508826,567
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507421,52
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508259,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509257,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509290,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508834,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506433,1019
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509284,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509317,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506910,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508842,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509491,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507338,442
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509062,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507811,444
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510341,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509910,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510319,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509070,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508647,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507367,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508639,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509078,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510327,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506896,467
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508227,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510334,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,1014
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507350,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509902,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509055,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507808,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507776,424
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510343,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509910,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509499,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509067,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507821,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507788,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510350,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507352,451
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509076,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507799,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510358,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506901,469
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506432,1013
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509087,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508239,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509929,19
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510365,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508656,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508821,563
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509670,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507810,446
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509697,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510511,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508243,420
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509677,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508829,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507364,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507823,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509684,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508258,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510104,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509663,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509239,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506435,1009
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506905,470
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509248,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509690,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509656,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507475,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507536,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506916,478
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507510,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507375,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507568,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507519,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507544,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507484,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507577,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507527,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507455,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507418,43
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507552,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507492,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507465,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507560,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506438,1012
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507443,25
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507501,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509577,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509551,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509517,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509545,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508242,419
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506918,479
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509511,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509570,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508673,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509501,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509538,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507823,445
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509564,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509531,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508660,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509087,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509558,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507378,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509524,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506439,1012
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509491,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507369,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508443,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509911,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510345,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507844,427
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508434,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508490,47
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509500,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510760,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510352,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508424,167
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509078,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508499,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508257,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507417,48
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509930,19
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508663,164
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506435,1008
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506910,475
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508245,421
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511158,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509489,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510307,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506921,481
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511165,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510313,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511178,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506440,1012
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507824,446
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509076,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510728,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511136,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510321,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511171,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511151,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507378,457
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509898,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508662,417
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875511144,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508244,420
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508712,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509162,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509134,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508719,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508704,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509154,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509127,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508677,15
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509147,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507824,443
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506896,465
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508696,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506934,38
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509169,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506431,1003
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508662,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508688,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507381,447
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509140,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510094,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506916,25
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509665,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507375,459
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507848,425
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510087,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506891,466
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508828,567
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510113,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509672,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510080,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507423,48
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508261,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510520,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510107,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509240,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509649,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510101,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506425,984
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509658,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508888,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508851,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507847,422
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509303,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508882,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509710,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507365,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507425,16
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509296,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508826,566
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508857,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508260,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508836,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508876,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508864,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506431,988
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506905,474
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508844,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508870,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507409,44
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509092,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507814,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509912,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507784,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509944,14
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509503,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509950,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508642,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509957,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507794,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508230,416
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506901,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508666,24
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509964,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509930,18
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507773,422
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,984
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507351,450
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509080,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507804,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506913,477
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507884,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507373,460
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509268,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508828,526
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507845,427
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507875,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509675,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509261,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508838,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509246,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509681,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507418,45
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507866,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507893,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509254,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506436,990
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509688,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507857,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508302,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510311,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509490,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507776,423
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509458,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507342,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508190,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508616,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509033,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507330,435
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509467,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506895,465
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509474,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508203,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509042,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507353,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509482,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509049,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,984
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509902,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508624,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508246,421
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508891,434
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508442,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509732,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509739,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508434,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506925,31
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506894,465
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507825,445
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508263,17
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508426,163
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508905,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508457,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509325,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508898,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509312,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506429,982
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508449,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507380,455
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509318,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510277,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507338,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509458,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510307,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507812,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507783,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510286,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506895,465
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508642,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507794,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510294,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509868,410
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508230,418
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507803,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510301,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506430,983
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507327,432
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509050,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507351,13
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507771,420
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509160,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508752,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506489,64
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508687,10
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508718,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507848,425
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508704,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509568,408
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506927,438
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508677,415
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508711,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507423,43
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508262,414
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508739,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508696,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508732,6
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508746,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507380,453
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506425,978
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508726,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508279,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510059,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510505,407
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510091,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508828,541
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508287,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510083,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507423,36
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507387,435
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510076,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506902,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506952,50
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509648,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507445,22
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508270,413
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509239,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506431,984
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510098,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875510068,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507857,412
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507369,462
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507506,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507439,24
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507948,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508828,471
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507480,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507514,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507940,8
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507489,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507932,7
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507462,11
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507451,12
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507498,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875508357,409
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506907,473
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507415,46
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875509239,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875506434,987
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507925,411
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: latency,create,1435875507471,9
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: 
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: --- create inputs ---
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: nrFiles = 1000
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: nrThreads = 50
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: nrFilesPerDir = 100
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: --- create stats  ---
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: # operations: 1000
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: Elapsed Time: 7381
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting:  Ops per sec: 135.48299688389108
+15/07/02 15:18:32 INFO namenode.NNThroughputBenchmarkWenting: Average Time: 218
+Connection to cdc-hpcblx033-13.bfd.walmart.com closed.

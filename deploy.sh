@@ -82,7 +82,10 @@ then
 	    echo "$node:
 	    scp $JAR_DIR/*.jar --> $HADOOP_HOME/share/hadoop/hdfs"
 	    #TO-DO check if HADOOP_HOME exists
-	    scp $JAR_DIR/*.jar $node:$HADOOP_HOME/share/hadoop/hdfs   
+	    scp $JAR_DIR/*.jar $node:$HADOOP_HOME/share/hadoop/hdfs
+	    ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "sudo rm $HADOOP_HOME/share/hadoop/common/lib/asm-3.2.jar"
+	    scp $JAR_DIR/asm-4.0.jar $node:$HADOOP_HOME/share/hadoop/common/lib/
+   	     
 	done
 	
 	for node in ${DATA_NODE//,/ }
@@ -91,7 +94,8 @@ then
 	    scp $JAR_DIR/*.jar --> $HADOOP_HOME/share/hadoop/hdfs"
 	    #TO-DO check if HADOOP_HOME exists
 	    scp $JAR_DIR/*.jar $node:$HADOOP_HOME/share/hadoop/hdfs
-	    
+	    ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "sudo rm $HADOOP_HOME/share/hadoop/common/lib/asm-3.2.jar"
+	    scp $JAR_DIR/asm-4.0.jar $node:$HADOOP_HOME/share/hadoop/common/lib/
 	done
 	
 else

@@ -6,7 +6,7 @@ REQUIRED_NUMBER_OF_ARGUMENTS=2
 if [ $# -lt $REQUIRED_NUMBER_OF_ARGUMENTS ]
 then
 echo "Usage: $0 <type_of_start> <path_to_config_file>"
-echo "Type of start: -j for all jars, -c for config files + all jars, -s for scratch(hadoop file+config files+alljars) "
+echo "Type of start: -j for all jars, -c for config files + all jars, -s for scratch(hadoop file+config files+alljars), -t for test-hdfs.jar, -h for hdfs.jar"
 exit 1
 fi
 
@@ -17,12 +17,34 @@ echo ""
 source $CONFIG_FILE
 
 ##############################Copy files##############################
+if [ "$1" == "-t" ]
+then
+       echo "Copy hdfs.test jar to hadoop home"
+	for node in ${NAME_NODE//,/ }
+	do
+	    echo "$node:
+	    scp $JAR_DIR/hadoop-hdfs-2.6.0-tests.jar --> $HADOOP_HOME/share/hadoop/hdfs"
+	    #TO-DO check if HADOOP_HOME exists
+	    scp $JAR_DIR/hadoop-hdfs-2.6.0-tests.jar $node:$HADOOP_HOME/share/hadoop/hdfs   	     
+	done
+fi
+if [ "$1" == "-h" ]
+then
+       echo "Copy hdfs jar to hadoop home"
+	for node in ${NAME_NODE//,/ }
+	do
+	    echo "$node:
+	    scp $JAR_DIR/hadoop-hdfs-2.6.0.jar --> $HADOOP_HOME/share/hadoop/hdfs"
+	    #TO-DO check if HADOOP_HOME exists
+	    scp $JAR_DIR/hadoop-hdfs-2.6.0.jar $node:$HADOOP_HOME/share/hadoop/hdfs   	     
+	done
+fi
 
 if [ "$1" == "-s" ]
 then
 	
 	TAR_FILE_NAME=$(basename $LOCAL_HADOOP_FILE)
-	echo "Step1: Copy hadoop binary file $TAR_FILE_NAME and extract here"
+	echo "Copy hadoop binary file $TAR_FILE_NAME and extract here"
 	for node in ${NAME_NODE//,/ }
 	do
 	    echo "Scp $LOCAL_HADOOP_FILE to $node:$HADOOP_DIR"
@@ -97,8 +119,4 @@ then
 	    ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "sudo rm $HADOOP_HOME/share/hadoop/common/lib/asm-3.2.jar"
 	    scp $JAR_DIR/asm-4.0.jar $node:$HADOOP_HOME/share/hadoop/common/lib/
 	done
-	
-else
-	echo "Unrecongized start type: -h, -c, or -s"
-	exit 1	
 fi

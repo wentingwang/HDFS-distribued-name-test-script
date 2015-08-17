@@ -7,8 +7,8 @@ if [ $# -lt $REQUIRED_NUMBER_OF_ARGUMENTS ]
 then
 echo "Usage: $0 <type_of_start> <path_to_config_file> <-h for hard or -s for soft>"
 echo "Type of start: namenode or datanode "
-echo "mode of start: hard for delete and format"
-echo "               soft for start process only "
+echo "mode of start: -h hard for delete and format"
+echo "               -s soft for start process only "
 exit 1
 fi
 
@@ -38,7 +38,7 @@ if [ "$3" == "-h" ]
 then
     for node in ${NAME_NODE//,/ }
     do
-    ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "sudo rm -rf /data1/dfs/name;$HADOOP_HOME/bin/hdfs namenode -format -clusterid nn -force"
+    ssh -t -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no $node "sudo rm -rf /data1/dfs/name;sudo $HADOOP_HOME/bin/hdfs namenode -format -clusterid nn -force"
     done
 fi
 

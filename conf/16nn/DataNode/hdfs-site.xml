@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License. See accompanying LICENSE file.
+-->
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+<property>
+  <name>dfs.replication</name>
+  <value>3</value>
+</property>
+
+<property>
+  <name>dfs.datanode.data.dir</name>
+  <value>/data1/datanode</value>
+</property>
+
+<property>
+  <name>dfs.datanode.use.datanode.hostname</name>
+  <value>false</value>
+</property>
+
+<property>
+  <name>dfs.namenode.datanode.registration.ip-hostname-check</name>
+  <value>false</value>
+</property>
+
+<!-- federation support -->
+
+<property>
+    <name>dfs.federation.nameservices</name>
+    <value>nn1,nn2,nn3,nn4,nn5,nn6,nn7,nn8,nn9,nn10</value>
+</property>
+<property>
+    <name>dfs.namenode.rpc-address.nn1</name>
+    <value>cdc-hpcblx033-01.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn1</name>
+    <value>cdc-hpcblx033-01.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn2</name>
+    <value>cdc-hpcblx033-02.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn2</name>
+    <value>cdc-hpcblx033-02.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn3</name>
+    <value>cdc-hpcblx033-03.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn3</name>
+    <value>cdc-hpcblx033-03.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn4</name>
+    <value>cdc-hpcblx033-04.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn4</name>
+    <value>cdc-hpcblx033-04.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn5</name>
+    <value>cdc-hpcblx033-05.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn5</name>
+    <value>cdc-hpcblx033-05.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn6</name>
+    <value>cdc-hpcblx033-06.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn6</name>
+    <value>cdc-hpcblx033-06.bfd.walmart.com:50070</value>
+    </property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn7</name>
+    <value>cdc-hpcblx033-07.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn7</name>
+    <value>cdc-hpcblx033-07.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn8</name>
+    <value>cdc-hpcblx033-08.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn8</name>
+    <value>cdc-hpcblx033-08.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn9</name>
+    <value>cdc-hpcblx033-09.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn9</name>
+    <value>cdc-hpcblx033-09.bfd.walmart.com:50070</value>
+    </property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn10</name>
+    <value>cdc-hpcblx033-10.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn10</name>
+    <value>cdc-hpcblx033-10.bfd.walmart.com:50070</value>
+</property>
+<property>
+    <name>dfs.namenode.rpc-address.nn11</name>
+    <value>cdc-hpcblx033-11.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn11</name>
+    <value>cdc-hpcblx033-11.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn12</name>
+    <value>cdc-hpcblx033-12.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn12</name>
+    <value>cdc-hpcblx033-12.bfd.walmart.com:50070</value>
+</property>
+
+
+<property>
+    <name>dfs.namenode.rpc-address.nn13</name>
+    <value>cdc-hpcblx033-13.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn13</name>
+    <value>cdc-hpcblx033-13.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn14</name>
+    <value>cdc-hpcblx033-14.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn14</name>
+    <value>cdc-hpcblx033-14.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn15</name>
+    <value>cdc-hpcblx033-15.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn15</name>
+    <value>cdc-hpcblx033-15.bfd.walmart.com:50070</value>
+</property>
+
+<property>
+    <name>dfs.namenode.rpc-address.nn16</name>
+    <value>cdc-hpcblx033-16.bfd.walmart.com:9000</value>
+</property>
+
+<property>
+    <name>dfs.namenode.http-address.nn16</name>
+    <value>cdc-hpcblx033-16.bfd.walmart.com:50070</value>
+</property>
+
+</configuration>
